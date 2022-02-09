@@ -7,7 +7,6 @@ sections:
 - type: document
   path: blog/.vuepress/data/config.json
   label: Config
-  match: "**/*"
 - type: directory
   path: blog/posts
   label: Categories
