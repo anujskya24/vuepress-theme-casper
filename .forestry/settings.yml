@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: blog/posts
-  label: Posts
+  label: Categories
   create: all
   match: "**/*"
 upload_dir: blog/.vuepress/public/images
