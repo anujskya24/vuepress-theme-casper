@@ -1,6 +1,6 @@
 {
-  "title": "Casper Theme",
-  "description": "Ghosts default theme for Vuepress",
+  "title": "Anuj Shakya",
+  "description": "My Portfolio",
   "base": "/",
   "themeConfig": {
     "cover": "/images/cover.jpg",
