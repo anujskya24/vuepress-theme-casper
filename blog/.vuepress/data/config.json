@@ -7,6 +7,10 @@
     "logo": "/images/logo.png",
     "nav": [
       {
+        "text": "anuj",
+        "link": "asdfasdf"
+      },
+      {
         "text": "Home",
         "link": "/"
       },
