@@ -23,5 +23,3 @@ fields:
 - type: text
   name: readingTime
   label: readingTime
-pages:
-- blog/posts/anuj/anuj.md
