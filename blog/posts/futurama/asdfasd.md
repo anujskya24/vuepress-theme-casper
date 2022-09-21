@@ -6,7 +6,7 @@ type: test
 tags:
 - test
 categories:
-- futurema
+- futurama
 readingTime: adsfa
 
 ---
