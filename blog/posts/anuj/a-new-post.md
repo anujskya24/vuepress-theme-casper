@@ -1,12 +1,12 @@
 ---
-title: asdfasd
+title: A new post for today
 image: https://picsum.photos/1920/1080/?random&date=2018-11-15
-publish: 2022-09-21 14:11:00 +0000
+publish: 2022-09-21T14:11:00.000+00:00
 type: post
 tags:
 - test
 categories:
-- futurama
+- anuj
 readingTime: adsfa
 
 ---
