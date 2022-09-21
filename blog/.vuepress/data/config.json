@@ -37,6 +37,10 @@
     ],
     "footer": [
       {
+        "text": "asdfasd",
+        "link": "asdfasdfadsf"
+      },
+      {
         "text": "Latest Posts",
         "link": "/posts"
       },
