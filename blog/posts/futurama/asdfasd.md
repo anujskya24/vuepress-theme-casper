@@ -5,7 +5,8 @@ publish: 2022-09-21 14:11:00 +0000
 type: test
 tags:
 - test
-categories: []
+categories:
+- futurema
 readingTime: adsfa
 
 ---
