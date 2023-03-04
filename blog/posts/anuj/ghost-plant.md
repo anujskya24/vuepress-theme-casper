@@ -1,6 +1,6 @@
 ---
 title: GHOST PALANT
-image: https://anuz.ml/uploads/plant-sell-poster.png
+image: https://anuz.ml//images/plant-sell-poster.png
 publish: 2023-03-03 18:15:00 +0000
 type: post
 tags:
@@ -15,4 +15,4 @@ readingTime: ''
 ---
 Ghost plant !!
 
-![](/uploads/plant-sell-poster.png)
+![](/images/plant-sell-poster.png)
