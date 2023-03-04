@@ -12,4 +12,6 @@ categories:
 readingTime: ''
 
 ---
+Ghost plant !!
+
 ![](/uploads/plant-sell-poster.png)
