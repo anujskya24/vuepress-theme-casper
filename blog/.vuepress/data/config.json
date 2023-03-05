@@ -7,28 +7,16 @@
     "logo": "/images/logo.png",
     "nav": [
       {
-        "text": "Anuj",
-        "link": "/category/anuj"
+        "text": "anuj",
+        "link": "category/anuj"
       },
       {
-        "text": "Home",
-        "link": "/"
+        "text": "Gardening",
+        "link": "/category/gardening"
       },
       {
         "text": "Posts",
         "link": "/posts"
-      },
-      {
-        "text": "Futurama",
-        "link": "/category/futurama"
-      },
-      {
-        "text": "Dexter",
-        "link": "/category/dexter"
-      },
-      {
-        "text": "Media",
-        "link": "/media.html"
       },
       {
         "text": "About",
@@ -36,10 +24,6 @@
       }
     ],
     "footer": [
-      {
-        "text": "asdfasd",
-        "link": "asdfasdfadsf"
-      },
       {
         "text": "Latest Posts",
         "link": "/posts"
@@ -62,9 +46,9 @@
       "twitter": "https://twitter.com/ajshakya"
     },
     "defaultAuthor": {
-      "link": "https://alexander.heimbu.ch",
-      "name": "Default Author",
-      "gravatar": "2bfa103a13c88b5ffd26da6f982f11df"
+      "link": "https://anuz.ml",
+      "name": "Anuj",
+      "gravatar": ""
     },
     "search": true
   }
