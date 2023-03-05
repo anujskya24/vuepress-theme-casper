@@ -8,7 +8,7 @@ tags:
 - plant
 categories:
 - gardening
-readingTime: ''
+readingTime: 1 second
 
 ---
 Ghost plant !!
